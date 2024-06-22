@@ -16,7 +16,7 @@ response_length=500
 
 
 def ai(prompt, model, chat): 
-    intial_prompt=" You are Jarvis , most important part of the voice assistant made by Abhinav. You have to give very precise and to the point answer to each and every query. Use less words to answer."
+    intial_prompt=" You are Jarvis , most important part of the voice assistant made by {user}. You have to give very precise and to the point answer to each and every query. Use less words to answer."
     full_prompt = {"parts": [{"text": f"{intial_prompt}" + prompt}]}
     response = chat.send_message(full_prompt)
     return response.text
