@@ -6,7 +6,7 @@ import utils
 import testing_my_command.run_on_alive_terminal as run_on_terminal
 from save_conversation import save_file
 
-genai.configure(api_key="AIzaSyAifEm_DMPPSqNx2Zv1NackAZHtCyieyXo")
+genai.configure(api_key="")
 model = genai.GenerativeModel(model_name='gemini-1.5-flash')
 chat = model.start_chat(history=[])
 chat_history=[]
