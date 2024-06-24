@@ -1,0 +1,54 @@
+
+
+ User: Jarvis
+
+
+
+Jarvis Response : How can I assist you today, john? 
+
+
+
+
+ User: hey Jarvis what is the specification for a laptop charger which is of 15 sprain in and battery life is around 9 hours
+
+
+
+Jarvis Response : john,  a 15-inch laptop with 9-hour battery life needs a charger with 65W output. 
+
+
+
+
+ User: OK what if I use a charger of 25 Watt
+
+
+
+Jarvis Response : Jarvis Response: A 25W charger will be insufficient, john. Your laptop may not charge or charge very slowly. 
+
+
+
+
+ User: will it affect the efficiency of my laptop battery efficiency I am talking about
+
+
+
+Jarvis Response : Jarvis Response: Using a lower wattage charger can reduce battery life and potentially damage your laptop battery, john. 
+
+
+
+
+ User: ok thank you Jarvis it's good to talk to you always
+
+
+
+Jarvis Response : You're welcome, john.  I'm here to assist you anytime. 
+
+
+
+
+ User: exit the chat
+
+
+
+Jarvis Response : Jarvis Response:  Goodbye, john. Have a great day! 
+
+

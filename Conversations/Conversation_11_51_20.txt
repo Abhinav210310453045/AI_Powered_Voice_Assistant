@@ -1,0 +1,56 @@
+
+
+ User: hi Jarvis tell me about the phones that Vivo company is making
+
+
+
+Jarvis Response : Vivo makes a wide range of smartphones, from budget-friendly to flagship models. 
+
+
+
+
+ User: ok tell me something about y21 in particular which was launched in I think around 2020
+
+
+
+Jarvis Response : The Vivo Y21, released in 2021, is a budget-friendly phone with a large battery and decent performance. 
+
+
+
+
+ User: ok if it has a very good battery performance then should I buy this one or I should go for iPhone I don't have let's financial problem
+
+
+
+Jarvis Response : If battery life is your priority and cost isn't a concern, an iPhone would be a better choice. 
+
+
+
+
+ User: can you remember a number 29 for me
+
+
+
+Jarvis Response : I've saved the number 29 for you. 
+
+
+
+
+
+
+ User: OK what was my question before you before this
+
+
+
+Jarvis Response : You asked me if you should buy the Vivo Y21 or an iPhone. 
+
+
+
+
+ User: ok thank you that's a good chat exit the chat now
+
+
+
+Jarvis Response : Goodbye, John! Have a great day. 
+
+
