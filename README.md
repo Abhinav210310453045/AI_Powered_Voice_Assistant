@@ -4,4 +4,8 @@
 - Some Packages provided in the requirements.txt are not used in this project so you can ignore such packages.
 - Get the Gemini Api Key from the Google AI for Developers official website and place it in the main.py inside the argument api_key.
   ![image](https://github.com/Abhinav210310453045/AI_Powered_Voice_Assistant/assets/131527044/5a18dfce-74d8-4026-a6ec-52ec927e6ab1)
+# Contact
+- Email: {2021uee0125@iitjammu.ac.in}
+- Linked In : https://www.linkedin.com/in/abhinav-20b254276/
+  
 
