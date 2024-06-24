@@ -84,7 +84,6 @@ def chat_with_jarvis(query,quit=False):
 if __name__ == "__main__":
     print("Hello I am Jarvis AI, How can I help you today. ")
     utils.tts(generate_greeting())
-    # tts("Namaste Dillu ji ,")
     while True:
         print("Listening...")
         query=utils.take_user_input()
